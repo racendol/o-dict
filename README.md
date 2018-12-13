@@ -1,5 +1,4 @@
 # o-dict
-
 ## English
 A simple Python program that fetches the first entry from an online dictionary.
 This program currently only supports Jisho, KBBI, and English Oxford Dictionary.
@@ -16,10 +15,13 @@ Dependensi: beautifulsoup4
 
 ### Links and Details
 KBBI -> an Indonesian-Indonesian online dictionary
+
 URL: http://kbbi.kemdikbud.go.id/
 
 Jisho -> a Japanese-English online dictionary
+
 URL: https://jisho.org/
 
 English Oxford Dictionary -> an English-English online dictionary
+
 URL: https://en.oxforddictionaries.com/
